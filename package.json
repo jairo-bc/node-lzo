@@ -23,6 +23,6 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^5.2.0",
-    "node-gyp": "^4.0.0"
+    "node-gyp": "^10.2.0"
   }
 }
